@@ -1,0 +1,19 @@
+{
+  "name": "cum-and-go",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Rays/Cum-GO.git"
+  },
+  "author": "ME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark-Rays/Cum-GO/issues"
+  },
+  "homepage": "https://github.com/Dark-Rays/Cum-GO#readme"
+}
